@@ -1,2 +1,9 @@
-# lc-the-star-brisbane-1760526283
-Site: LC The Star Brisbane
+# LC The Star Brisbane
+
+
+
+Built on: 2025-10-15 11:04:46
+
+Available languages:
+- en-CA
+- langs

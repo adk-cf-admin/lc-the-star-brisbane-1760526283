@@ -1,0 +1,209 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#fafafa",
+            "lang-select-color": "#222829",
+            "bg-light": "#242424",
+            "welcome-bonus-bg": "#8da2a5",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#222829",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#d7af42",
+            "yellow": "#4e56c6",
+            "yellow-button": "#d7af42",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#8da2a5",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#222829",
+            "faq-label": "#8da2a5",
+            "bg-footer": "#8da2a5",
+            "copyright": "#e7e7d5",
+            "starColor": "#4e56c6",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/8",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "The Star Brisbane Casino",
+            "title": "The Star Brisbane Casino | Slots, Table Games, Shows & Real Cash Prizes",
+            "description": "Experience the thrill at The Star Brisbane Casino \u2014 Queensland\u2019s premier gaming and entertainment destination. Play slots, poker, blackjack, and bingo, join prize draws, and win up to AUD 30,000. Dining, shows, and excitement all in one place.",
+            "canonical": "#",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/140",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/141",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/142"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/139",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "The Star Brisbane Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "The Star Brisbane Casino \u2014 Gaming, Entertainment & Big Wins in the Heart of Brisbane",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/133",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 5,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/134",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "24\/7 operation with no time limits",
+                "Wide selection of table games and slots",
+                "VIP rooms with private gaming areas",
+                "Modern technology and innovative gaming solutions",
+                "High level of security and privacy",
+                "Loyalty programs and exclusive bonuses",
+                "Premium service and personalized guest experience"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "The Star Brisbane App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/135",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "The Star Brisbane App",
+            "mobileGooglePlayImageTitle": "The Star Brisbane App",
+            "mobileIosImageTitle": "The Star Brisbane App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "The Star Brisbane",
+                "description1": "",
+                "items": [
+                    "Prize Pool: $600,000",
+                    "Generous Bonuses & Promotions",
+                    "High Betting Limits"
+                ],
+                "description2": "The Star Brisbane Casino is a world-class entertainment destination in the heart of Brisbane\u2019s Queen\u2019s Wharf precinct. Open 24\/7, it offers an exceptional gaming experience with a wide range of table games, poker, and the latest slot machines. Guests enjoy exclusive VIP rooms, generous bonuses, and exciting promotions, including prize pools worth hundreds of thousands of dollars. Beyond gaming, The Star Brisbane features luxury hotels, fine dining, live entertainment, and panoramic views from the iconic Sky Deck, making it the ultimate place for thrill, style, and unforgettable moments.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/136",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "The Star Brisbane History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "The Star Brisbane Casino \u2013 Thrill, Luxury, and Entertainment in the Heart of Brisbane",
+                "description": "<p>The Star Brisbane Casino is the premier gaming and entertainment destination in Australia, located in the prestigious Queen\u2019s Wharf precinct. Open 24\/7, the casino offers guests a unique combination of world-class gaming, generous bonuses, fine dining, and vibrant events.<\/p>\n<br>\n<p>The spacious gaming floor features classic table games such as Blackjack, Roulette, and Baccarat, along with a modern poker room hosting daily cash games and weekly tournaments. Slot enthusiasts will enjoy a wide selection of machines, including Lightning Link, Golden Dollars, and other progressive jackpots. For those who love fast-paced action, the Rapid Fire Zone offers electronic gaming, while Mahjong is available for fans of traditional Asian games.<\/p>\n<br>\n<p>The Star Brisbane rewards its guests with exciting offers, including a $600,000 prize pool in the 1-IN-3 Chance to Win promotion, weekly draws worth $10,000, and a welcome package valued at over $325 when joining The Star Club for free. Regular players can access exclusive loyalty programs and VIP privileges.<\/p>\n<br>\n<p>The casino is more than just gaming \u2013 it\u2019s a hub of entertainment. Guests can enjoy live music performances, spectacular shows, open-air cinema nights, themed parties, and gourmet dining events. The Sky Deck offers breathtaking panoramic views of Brisbane, while world-class restaurants and bars deliver unforgettable culinary experiences.<\/p>\n<br>\n<p>This is not just a casino \u2013 it\u2019s a complete entertainment universe. From luxury hotels and pools to Brisbane\u2019s largest ballroom and premium leisure spaces, The Star Brisbane combines excitement, comfort, and style in one extraordinary destination.<\/p>\n\n\n\n<style>\n        \/* \u0422\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u043b\u043e\u043d\u043a\u0438: 2 \u043d\u0430 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0435, 1 \u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 *\/\n        .two-col {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 24px;\n        }\n        @media (max-width: 640px) {\n            .two-col {\n                grid-template-columns: 1fr;\n            }\n        }\n    <\/style>\n<\/head>\n<body>\n    <strong> <h1>The Star Brisbane Casino Visitor Rules<\/h1> <\/strong>\n\n    <div class=\"two-col\">\n        <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>Age and Identification<\/h2><\/strong>\n           <p>Entry is permitted only to guests 18 years and older. A valid photo ID is required: passport, driver\u2019s license (Australian or international), or an official proof-of-age card.<\/p>\n            <br>\n\n            <strong><h2>Dress Code<\/h2><\/strong>\n            <p>Guests must maintain a neat and tidy appearance. Sportswear, beachwear, dirty or torn clothing are not allowed. The venue reserves the right to refuse entry if standards are not met.<\/p>\n    \n        <\/div>\n\n        <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>Behavior Rules<\/h2><\/strong>\n            <ul>\n                <li>\u2022 Guests must not be intoxicated by alcohol or drugs.<\/li>\n                <li> \u2022 Weapons, prohibited substances, and outside beverages are strictly forbidden.<\/li>\n                <li>\u2022 All visitors consent to video surveillance and photography, including facial recognition technology.<\/li>\n            <\/ul>\n            <br>\n            <strong><h2>Other Conditions<\/h2><\/strong>\n      <p>The casino operates 24\/7, except for short closures on Christmas Day, ANZAC Day, and Good Friday. Management reserves the right to refuse entry or remove guests for rule violations.<\/p>\n        <\/div>\n    <\/div>\n<\/body>\n\n\n<strong> <h1> The Star Club Loyalty Program.<\/h1> <\/strong>\n    <p>\n  The Star Club is the exclusive loyalty program at The Star Brisbane, designed to make every visit more rewarding and enjoyable. Membership is free, and joining unlocks a world of benefits. From the moment you sign up, you start earning Tier Points and Casino Dollars. Tier Points determine your membership level \u2014 from Bronze to Diamond \u2014 and open the door to premium perks such as dining and hotel discounts, access to private gaming rooms, and personalized VIP service. Casino Dollars act as a virtual currency that can be spent on gaming, dining, drinks, and accommodation.\n    <\/p>\n<br>\n<p>The more you play and enjoy the resort\u2019s services, the faster you progress through the tiers and unlock additional rewards. New members receive a welcome package valued at over $325, while regular guests benefit from exclusive offers, complimentary parking, priority service, and invitations to members-only events. The Star Club is designed to ensure that every visit delivers not just excitement, but real advantages.<\/p>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Title for custom section",
+                "description": "<style>\n        \/* \u0422\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u043b\u043e\u043d\u043a\u0438: 2 \u043d\u0430 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0435, 1 \u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 *\/\n        .two-col {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 24px;\n        }\n        @media (max-width: 640px) {\n            .two-col {\n                grid-template-columns: 1fr;\n            }\n        }\n    <\/style>\n<\/head>\n<body>\n    <strong> <h1>Bonuses and Promotions at The Star Brisbane<\/h1> <\/strong>\n\n    <div class=\"two-col\">\n        <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>1-IN-3 Chance to Win<\/h2><\/strong>\n           <p>This major promotion features a $600,000 prize pool in instant rewards. Members of The Star Club can participate by swiping their membership card daily at the Member Zone and playing on the screen. The promotion runs from October 1 to December 31, 2025, and offers a 1-in-3 chance to win each time you swipe. Prizes include $10\u2013$50 Casino Dollars for Diamond, Platinum, and Gold members, and $5\u2013$10 Casino Dollars or food and beverage vouchers for Bronze and Silver members.<\/p>\n            <br>\n\n            <strong><h2> Make Way For Play Day<\/h2><\/strong>\n            <p>Every Wednesday, guests can enjoy weekly draws with a $10,000 prize pool. Simply play on slots or table games during the promotional period for a chance to win.<\/p>\n    \n        <\/div>\n\n        <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>Hot Seat Draws<\/h2><\/strong>\n           <p>This exciting promotion offers $30,000 in random prizes for players seated at slot machines or table games during designated times. Winners are selected at random, adding an extra thrill to your gaming experience.<\/p>\n            <br>\n            <strong><h2>Welcome Package for New Members<\/h2><\/strong>\n      <p>New members of The Star Club receive a welcome package valued at over $325, which includes discounts on dining, bars, hotels, and spa services, as well as the opportunity to start earning Casino Dollars and Tier Points immediately.<\/p>\n        <\/div>\n    <\/div>\n<\/body>\n<br>\n <strong><h2>The Star Club Loyalty Program<\/h2><\/strong>\n           <p>The Star Club is the casino\u2019s exclusive loyalty program, offering members the chance to earn Casino Dollars (redeemable for gaming, dining, and accommodation) and Tier Points that determine your membership level: Bronze, Silver, Gold, Platinum, or Diamond. Higher tiers unlock greater benefits, including up to 30% discounts on restaurants, bars, hotels, and spa services, access to VIP gaming rooms, a personal host, complimentary parking, priority service, and invitations to exclusive events.<\/p>\n\n   <strong> <h1>Popular Casino Games at The Star Brisbane: Bets and Payouts<\/h1> <\/strong>\n\n<p>The Star Brisbane offers an impressive selection of casino games, combining classic favorites with modern innovations. <\/p>\n<br>\n <strong><h2>Roulette<\/h2><\/strong>\n<p>Roulette remains one of the most iconic games on the casino floor. Players can choose from Single Zero, Double Zero, and even Triple Zero variations. The minimum bet at physical roulette tables typically starts at $5, while electronic roulette terminals allow bets from $1. A straight-up bet on a single number pays 35 to 1, meaning a $10 bet could return $360. Combination bets like splits, corners, and streets offer lower payouts but higher chances of winning.<\/p><br>\n\n <strong><h2>Blackjack<\/h2><\/strong>\n<p>Blackjack is a favorite among strategy players. At The Star Brisbane, the minimum bet for blackjack tables is usually $20 per hand, with maximum limits reaching $500 on standard tables. Blackjack pays 3:2, so a $20 bet on a winning blackjack hand returns $50. Side bets and variations like Trilux Blackjack add extra excitement and payout opportunities.<\/p><br>\n\n <strong><h2>Poker<\/h2><\/strong>\n<p>The Star Brisbane hosts the only professionally dealt cash poker games in the city, along with major tournaments such as the Brisbane Champs. Tournament buy-ins range from $240 for satellites to $1,000 for main events, while cash games offer flexible limits for all player levels. Skilled players can win thousands in a single session, especially during championship events.<\/p><br>\n\n <strong><h2>Slot Machines (Pokies)\n<\/h2><\/strong>\n<p>The casino features hundreds of slot machines, including popular titles like Lightning Link and Dragon Link. Minimum bets start at $0.01 per line, but most machines allow bets from $1 per spin. Progressive jackpots can reach hundreds of thousands of dollars, making pokies one of the most thrilling options for big wins. In Queensland, maximum bets on pokies in casinos have no strict limit, and payouts can be massive. [onlinepokies.com]<\/p><br>\n\n\n <strong><h2>Baccarat and Dice Games<\/h2><\/strong>\n<p>Baccarat tables cater to both casual players and high rollers, with minimum bets starting around $20 and maximum limits reaching several thousand dollars. Dice games like Sic Bo offer multiple betting options, with payouts ranging from 1:1 for simple bets to 180:1 for rare combinations.<\/p><br>\n\n\n\n<section id=\"adelaide-casino-bet-limits\">\n  <h1>Minimum and Maximum Bets at The Star Brisbane Casino<\/h1>\n  <p>At The Star Brisbane, guests can enjoy a wide range of gaming options with flexible betting limits suitable for beginners and high rollers alike.<\/p>\n\n  <table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n    <thead>\n      <tr style=\"background:#8da2a5;\">\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n        <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Payout<\/th>\n      <\/tr>\n    <\/thead>\n    <tbody>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500 AUD<\/td>\n <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">35:1 (Straight Up)<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$20 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500 AUD<\/td>\n <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">3:2 <\/td>\n      <\/tr>\n   \n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Cash)<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$2 \/ $5 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">No Limit<\/td>\n <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Depends on the pot<\/td>\n      <\/tr>\n      <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Slots (Pokies)<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.01 AUD per line  <\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$100+ per spin<\/td>\n<td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Progressive jackpots $100,000+<\/td>\n      <\/tr>\n   <tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$20 AUD <\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5,000+ AUD<\/td>\n<td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to 8:1<\/td>\n      <\/tr>\n<tr>\n        <td style=\"border:1px solid #ccc; padding:8px;\">Sic Bo<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 AUD<\/td>\n        <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$500 AUD<\/td>\n<td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to 180:1<\/td>\n      <\/tr>\n    <\/tbody>\n  <\/table>\n\n\n\n<strong><h1>Entertainment & Events at The Star Brisbane Casino<\/h1><\/strong>\n  <p>The Star Brisbane Casino is more than just a casino \u2014 it\u2019s a premier entertainment destination located in the heart of Queen\u2019s Wharf, Brisbane. From dazzling shows and themed parties to gourmet dining and exciting gaming events, discover why this venue is perfect for leisure, celebrations, and unforgettable nights.<\/p>\n<br>\n\n<style>\n        \/* \u0422\u043e\u043b\u044c\u043a\u043e \u043a\u043e\u043b\u043e\u043d\u043a\u0438: 2 \u043d\u0430 \u0434\u0435\u0441\u043a\u0442\u043e\u043f\u0435, 1 \u043d\u0430 \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 *\/\n        .two-col {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 24px;\n        }\n        @media (max-width: 640px) {\n            .two-col {\n                grid-template-columns: 1fr;\n            }\n        }\n    <\/style>\n<\/head>\n<body>\n<h1>Signature Events & Live Entertainment<\/h1>\n<br>\n    <div class=\"two-col\">\n        <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2> Melbourne Cup at The Star Brisbane<\/h2><\/strong>\n           <p>Celebrate the iconic Melbourne Cup in style with live race screenings, themed lunches at Sokyo, Cucina Regina, and Event Centre, fashion contests, live music, and festive cocktails. The perfect blend of glamour and excitement.<\/p>\n            <br>\n\n            <strong><h2>  Sleigh The Night \u2014 Christmas Ball<\/h2><\/strong>\n            <p>On December 19, the Event Centre transforms into a winter wonderland. Enjoy a festive dinner, live performances, dancing, and surprises. Ideal for corporate parties and year-end celebrations.<\/p>\n<br>\n    <strong><h2> Sing Out Sister \u2014 Karaoke Party<\/h2><\/strong>\n            <p>Step into the spotlight at this lively karaoke night. Sing your favorite hits, enjoy the vibrant atmosphere, and make memories with friends.<\/p>\n    \n        <\/div>\n\n        <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n        <div>\n            <strong><h2>Skyline Cinema \u2014 Movies Under the Stars<\/h2><\/strong>\n           <p>Watch films under the open sky on the Sky Deck, with breathtaking views of Brisbane. Featuring classics, new releases, and themed screenings.<\/p>\n            <br>\n            <strong><h2>Trivia Tuesdays \u2014 Smart Fun at Sports Bar<\/h2><\/strong>\n      <p>Join weekly trivia nights at Sports Bar. Team up, test your knowledge, and win prizes in a fun and social setting.<\/p>\n\n   <strong><h2>Blingo Nights \u2014 Bingo with a Twist<\/h2><\/strong>\n      <pExperience bingo like never before \u2014 with music, dancing, and comedy. A high-energy show that combines fun and games.<\/p>\n        <\/div>\n    <\/div>\n<\/body>\n<br>\n \n<h1>Signature Events & Live Entertainment<\/h1>\n<p><strong> Sunday Brunch at Aloria \u2014 Rooftop Indulgence <\/strong><\/p>\n<p>Every Sunday, Aloria invites you to a luxurious rooftop brunch featuring seafood, desserts, champagne, and live music \u2014 all with panoramic city views. <\/p><br>\n<p><strong> An Evening With Henschke \u2014 Wine Dinner Under the Stars<\/strong><\/p>\n<p>Enjoy a gourmet dinner paired with wines from the legendary Henschke winery. A refined evening of taste and elegance.<\/p><br>\n<p><strong> Cucina Regina Italian Long Lunch \u2014 Taste of Italy<\/strong><\/p>\n<p>Savor a relaxed Italian lunch with pasta, antipasti, desserts, and wine. A celebration of flavor and the joy of slow dining.<\/p><br>\n\n\n<h1> Gaming & Interactive Fun<\/h1>\n<p><strong>  Mahjong Nights \u2014 Classic Chinese Game <\/strong><\/p>\n<p>Discover the traditional game of Mahjong every Tuesday and Wednesday at LiveWire. A calm and engaging way to enjoy your evening.<\/p><br>\n\n<p><strong> Hot Seat Draws \u2014 Win While You Play<\/strong><\/p>\n<p>Play and win! Participate in daily draws for a chance to win part of AUD 30,000. Just be in the right place at the right time.<\/p><br>\n\n<p><strong> Make Way For Play Day \u2014 Family-Friendly Fun<\/strong><\/p>\n<p>Enjoy a day filled with interactive zones, contests, prizes, and surprises for all ages. A celebration of play and joy.<\/p><br>\n\n<h1>Venues & Spaces for Every Occasion<\/h1>\n<p><strong> Sky Deck \u2014 Elevated Dining & Viewse <\/strong><\/p>\n<p>A rooftop terrace 100 meters above ground with restaurants, bars, and stunning views of the city and river. Perfect for romantic dinners and social gatherings.<\/p><br>\n\n<p><strong> Leisure Deck \u2014 Outdoor Relaxation<\/strong><\/p>\n<p>12,000 sqm of green space with picnic areas, event zones, and resort-style amenities. Ideal for fresh-air leisure and community events.<\/p><br>\n\n<p><strong> Event Centre \u2014 Grand Celebrations<\/strong><\/p>\n<p>Brisbane\u2019s largest hotel ballroom, perfect for weddings, corporate functions, gala dinners, and large-scale events. Fully customizable for any occasion.<\/p><br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Can I book a private event or corporate function at The Star Brisbane?",
+                    "answer": "Yes! Our Event Centre is Brisbane\u2019s largest hotel ballroom and is perfect for weddings, corporate functions, gala dinners, and private celebrations. Custom packages and professional event planning are available."
+                },
+                {
+                    "title": "Do I need to be a member to participate in promotions or draws?",
+                    "answer": "While some promotions are exclusive to members, many events like Hot Seat Draws and Blingo Nights are open to all guests. Becoming a member unlocks additional benefits and rewards."
+                },
+                {
+                    "title": "How do I get to The Star Brisbane Casino?",
+                    "answer": "The casino is located in the Queen\u2019s Wharf precinct, right in the heart of Brisbane. It\u2019s easily accessible by car, public transport, or on foot. On-site parking is available, and there are nearby public transport stops for added convenience."
+                },
+                {
+                    "title": "What security measures are in place at The Star Brisbane Casino?",
+                    "answer": "The complex is equipped with 24\/7 security, video surveillance, and controlled access points. All guests are subject to age verification, and staff are trained to maintain a safe and comfortable environment for everyone."
+                },
+                {
+                    "title": "Can I stay at a hotel within The Star Brisbane Casino?",
+                    "answer": "Yes, The Star Brisbane features an on-site hotel offering rooms in various categories. Guests can choose from special \u201cstay & play\u201d packages that include accommodation, dining, and access to selected events."
+                },
+                {
+                    "title": "What payment methods are accepted at restaurants and events?",
+                    "answer": "All major credit cards are accepted, including Visa, Mastercard, and American Express. Contactless payments and mobile wallets such as Apple Pay and Google Pay are also supported."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/138",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "The Star Brisbane"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

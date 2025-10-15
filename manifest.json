@@ -1,0 +1,19 @@
+{
+  "name": "The Star Brisbane Casino",
+  "short_name": "The Star Brisbane Casino",
+  "theme_color": "",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1760364805-wwwstarcomau-3.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
