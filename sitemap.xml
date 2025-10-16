@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
       <url>
-          <loc>https://#</loc>
+          <loc>https://starbrisbane-online.com</loc>
 
-            <xhtml:link rel="alternate" hreflang="x-default" href="https://#" />
-            <xhtml:link rel="alternate" hreflang="en-CA" href="https://#" />
+            <xhtml:link rel="alternate" hreflang="x-default" href="https://starbrisbane-online.com" />
+            <xhtml:link rel="alternate" hreflang="en-CA" href="https://starbrisbane-online.com" />
 
 
-        <lastmod>2025-10-15T11:04:45.824Z</lastmod>
+        <lastmod>2025-10-16T10:38:13.224Z</lastmod>
         <changefreq>yearly</changefreq>
         <priority>1.0</priority>
       </url>
