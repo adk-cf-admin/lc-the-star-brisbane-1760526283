@@ -1,6 +1,6 @@
 {
   "placeholders": {
-    "https://api.adkey-seo.com/api/website/get-website/1122": {
+    "https://api.adkey-seo.com/api/website/get-constructor-website/s-2": {
       "website": {
         "id": 777,
         "link": "https:\/\/paf-casino-online.com",
@@ -365,7 +365,7 @@
         "image": "AztecMagicDeluxe-171846254_1668560441.webp"
       }
     ],
-    "https://api.adkey-seo.com/api/website/get-payments/1122": [
+    "https://api.adkey-seo.com/api/website/get-payments/s-2": [
       {
         "payment_id": 8,
         "commission": "Free",
