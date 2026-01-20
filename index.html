@@ -8,14 +8,13 @@
 
     <link rel="manifest" href="./manifest.json">
 
-        <style>
-            @font-face {
-                font-family: "";
-                src: url("_assets/fonts/1760096049_Montserrat-Bold.ttf");
-                font-weight: normal;
-                font-style: normal;
-            }
-        </style>
+        <!-- Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+                href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet"
+        />
         <!-- Google Fonts -->
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -72,7 +71,7 @@
     <link rel="preload" href="./assets/icons/faq/ph--minus-bold.svg" as="image" fetchpriority="high">
     <meta name="next-head-count" content="40">
             <link rel="alternate" hreflang="x-default" href="https://starbrisbane-online.com" />
-            <link rel="alternate" hreflang="en-AU" href="https://starbrisbane-online.com" />
+            <link rel="alternate" hreflang="EN-AU" href="https://starbrisbane-online.com" />
 </head>
 
 <body>
@@ -159,8 +158,11 @@
 <div class="wrapper">
     <header class="header" id="top">
         <div class="headerBlock">
-            <div class="headerLogoContainer"><a href="starbrisbane-online.com" aria-label="Main page"><img class="header__logo logo"
-                                                                                                     src="_assets/images/1760354218-wwwstarcomau-2.svg" alt="The Star Brisbane Casino Logo" /></a></div>
+            <div class="headerLogoContainer">
+                <a href="https://starbrisbane-online.com" aria-label="Main page">
+                    <img class="header__logo logo" src="_assets/images/1760354218-wwwstarcomau-2.svg" alt="The Star Brisbane Casino Logo"/>
+                </a>
+            </div>
             <ul class="nav__list">
                 <li class="nav__item"><a class="nav__link" target="_blank" href="casino.html?id=example-offer-id"
                                          aria-label="Sign Up" id="navSignUp"> Sign Up </a></li>
@@ -367,7 +369,7 @@
 </p>
 <br>
 
-<h3 style = "font-weight: bold; font-size: 32px;">The Star Brisbane Casino Visitor Rules</h3>
+<h3 style = "font-weight: bold; font-size: 32px">The Star Brisbane Casino Visitor Rules</h3>
 <br>
 
 <div
@@ -544,55 +546,66 @@ lang="en"
   <h3 style = "font-weight: bold; font-size: 32px;">Minimum and Maximum Bets at The Star Brisbane Casino</h3>
   <p>At The Star Brisbane, guests can enjoy a wide range of gaming options with flexible betting limits suitable for beginners and high rollers alike.</p>
 
-  <table style="width:100%; border-collapse:collapse; margin-top:16px;">
+ 
+<div style="max-width:100%; overflow-x:auto; -webkit-overflow-scrolling:touch; margin-top:16px;">
+  <table style="width:100%; min-width:640px; border-collapse:collapse;">
     <thead>
       <tr style="background:#8da2a5;">
-        <th style="border:2px solid #ccc; padding:8px; text-align:left;">Game Type</th>
-        <th style="border:2px solid #ccc; padding:8px; text-align:center;">Minimum Bet</th>
-        <th style="border:2px solid #ccc; padding:8px; text-align:center;">Maximum Bet</th>
-        <th style="border:2px solid #ccc; padding:8px; text-align:center;">Maximum Payout</th>
+        <th scope="col" style="position:sticky; top:0; z-index:1; border:2px solid #ccc; padding:12px 10px; text-align:left; color:#fff;">
+          Game Type
+        </th>
+        <th scope="col" style="position:sticky; top:0; z-index:1; border:2px solid #ccc; padding:12px 10px; text-align:center; color:#fff; white-space:nowrap;">
+          Minimum Bet
+        </th>
+        <th scope="col" style="position:sticky; top:0; z-index:1; border:2px solid #ccc; padding:12px 10px; text-align:center; color:#fff; white-space:nowrap;">
+          Maximum Bet
+        </th>
+        <th scope="col" style="position:sticky; top:0; z-index:1; border:2px solid #ccc; padding:12px 10px; text-align:center; color:#fff; white-space:nowrap;">
+          Maximum Payout
+        </th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="border:1px solid #ccc; padding:8px;">Roulette</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$5 AUD</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$500 AUD</td>
- <td style="border:1px solid #ccc; padding:8px; text-align:center;">35:1 (Straight Up)</td>
+        <td style="border:1px solid #ccc; padding:10px;">Roulette</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$5 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$500 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">35:1 (Straight Up)</td>
       </tr>
       <tr>
-        <td style="border:1px solid #ccc; padding:8px;">Blackjack</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$20 AUD</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$500 AUD</td>
- <td style="border:1px solid #ccc; padding:8px; text-align:center;">3:2 </td>
-      </tr>
-   
-      <tr>
-        <td style="border:1px solid #ccc; padding:8px;">Poker (Cash)</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$2 / $5 AUD</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">No Limit</td>
- <td style="border:1px solid #ccc; padding:8px; text-align:center;">Depends on the pot</td>
+        <td style="border:1px solid #ccc; padding:10px;">Blackjack</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$20 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$500 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">3:2</td>
       </tr>
       <tr>
-        <td style="border:1px solid #ccc; padding:8px;">Slots (Pokies)</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$0.01 AUD per line  </td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$100+ per spin</td>
-<td style="border:1px solid #ccc; padding:8px; text-align:center;">Progressive jackpots $100,000+</td>
+        <td style="border:1px solid #ccc; padding:10px;">Poker (Cash)</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$2 / $5 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center;">No Limit</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center;">Depends on the pot</td>
       </tr>
-   <tr>
-        <td style="border:1px solid #ccc; padding:8px;">Baccarat</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$20 AUD </td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$5,000+ AUD</td>
-<td style="border:1px solid #ccc; padding:8px; text-align:center;">Up to 8:1</td>
+      <tr>
+        <td style="border:1px solid #ccc; padding:10px;">Slots (Pokies)</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$0.01 AUD per line</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$100+ per spin</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">Progressive jackpots $100,000+</td>
       </tr>
-<tr>
-        <td style="border:1px solid #ccc; padding:8px;">Sic Bo</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$5 AUD</td>
-        <td style="border:1px solid #ccc; padding:8px; text-align:center;">$500 AUD</td>
-<td style="border:1px solid #ccc; padding:8px; text-align:center;">Up to 180:1</td>
+      <tr>
+        <td style="border:1px solid #ccc; padding:10px;">Baccarat</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$20 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$5,000+ AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">Up to 8:1</td>
+      </tr>
+      <tr>
+        <td style="border:1px solid #ccc; padding:10px;">Sic Bo</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$5 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">$500 AUD</td>
+        <td style="border:1px solid #ccc; padding:10px; text-align:center; white-space:nowrap;">Up to 180:1</td>
       </tr>
     </tbody>
   </table>
+</div>
+
 <br>
 
 
@@ -808,7 +821,7 @@ lang="en"
 <footer class="footer">
     <div class="footerContainer">
         <div class="footerTop">
-            <div class="footerLogoContainer"><a href="starbrisbane-online.com" aria-label="Main page"><img class="footer__logo"
+            <div class="footerLogoContainer"><a href="https://starbrisbane-online.com" aria-label="Main page"><img class="footer__logo"
                                                                                                      src="_assets/images/1760354128-wwwstarcomau-2.svg" alt="" width="140"
                                                                                                      height="48" /></a></div>
             <div class="footerPay">
